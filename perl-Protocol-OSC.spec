@@ -74,8 +74,8 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.28.1Protocol/OSC.pm
-/usr/lib/perl5/vendor_perl/5.28.1Protocol/OSC.pod
+/usr/lib/perl5/vendor_perl/5.28.1/Protocol/OSC.pm
+/usr/lib/perl5/vendor_perl/5.28.1/Protocol/OSC.pod
 
 %files dev
 %defattr(-,root,root,-)
