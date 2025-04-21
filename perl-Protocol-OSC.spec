@@ -7,7 +7,7 @@
 #
 Name     : perl-Protocol-OSC
 Version  : 0.09
-Release  : 29
+Release  : 30
 URL      : https://cpan.metacpan.org/authors/id/E/EG/EGOR/Protocol-OSC-0.09.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/E/EG/EGOR/Protocol-OSC-0.09.tar.gz
 Summary  : 'Open Sound Control v1.1 protocol implementation'
